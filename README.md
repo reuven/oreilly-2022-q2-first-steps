@@ -1,6 +1,6 @@
 # Jupyter notebook from my "First Steps" course, Q2 2022
 
-This repo will contain the Jupyter notebooks and files from my summer 2022 "Python first steps" course
+This repo will contain the Jupyter notebooks and files from my spring 2022 "Python first steps" course
 
 Enjoy!
 
