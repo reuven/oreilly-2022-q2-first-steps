@@ -1,4 +1,4 @@
-print('Hello from mymod!')
+print(f'Hello from {__name__}!')
 
 x = 100
 
@@ -9,4 +9,4 @@ months = {'Jan':1, 'Feb':2, 'Mar':3, 'Apr':4, 'May':5, 'Jun':6}  # ignore the la
 def hello(name):
     return f'Hello, {name}!'
 
-print('Goodbye from mymod!')
+print(f'Goodbye from {__name__}!')
