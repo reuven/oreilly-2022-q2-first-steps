@@ -1,4 +1,5 @@
-print(f'Hello from {__name__}!')
+if __name__ == '__main__':
+    print(f'Hello from {__name__}!')
 
 x = 100
 
@@ -9,4 +10,5 @@ months = {'Jan':1, 'Feb':2, 'Mar':3, 'Apr':4, 'May':5, 'Jun':6}  # ignore the la
 def hello(name):
     return f'Hello, {name}!'
 
-print(f'Goodbye from {__name__}!')
+if __name__ == '__main__':
+    print(f'Goodbye from {__name__}!')
